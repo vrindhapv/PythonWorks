@@ -1,0 +1,7 @@
+[
+    {"rol":123,"name":"hari","gender":"male","course":"django"},
+    {"rol":124,"name":"varun","gender":"male","course":"software testing"},
+    {"rol":125,"name":"anju","gender":"female","course":"python"},
+    {"rol":125,"name":"anjana","gender":"female","course":"software testing"},
+    {"rol":125,"name":"karthi","gender":"male","course":"python"}
+]
